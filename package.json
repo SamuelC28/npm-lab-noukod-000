@@ -1,0 +1,29 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "aaaaaaa",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "learn-browser": "^0.1.24"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamuelC28/npm-lab-noukod-000.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Samuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamuelC28/npm-lab-noukod-000/issues"
+  },
+  "homepage": "https://github.com/SamuelC28/npm-lab-noukod-000#readme"
+}
